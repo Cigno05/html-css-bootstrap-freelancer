@@ -1,0 +1,83 @@
+ol,
+ul,
+menu {
+    list-style-type: none;
+}
+
+
+
+
+
+.star {
+    width: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.debug [class^="container"] {
+    border: 1px solid black;
+}
+
+.debug [class^="row"] {
+    border: 1px solid red;
+}
+
+.debug [class^="col"] {
+    border: 1px solid green;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
